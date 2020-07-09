@@ -15,3 +15,5 @@ Add to your sdk_config.h, placement choose yourself.
 #ifndef BLE_CSCS_C_BLE_OBSERVER_PRIO
 #define BLE_CSCS_C_BLE_OBSERVER_PRIO 2
 #endif
+
+
